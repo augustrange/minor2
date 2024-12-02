@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Стандарт 1",
+    "vendor_code": "111",
+    "description": "Одноместный номер",
+    "price": 1500,
+    "img": "https://www.parkcityhotel.ru/upload/iblock/179/DSC07928.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Стандарт 2",
+    "vendor_code": "222",
+    "description": "Двухместный номер",
+    "price": 2000,
+    "img": "https://foundhotels.com/wp-content/uploads/2024/03/06-SFO-SUTT1075-Double-scaled.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Queen-size",
+    "vendor_code": "333",
+    "description": "Номер с кроватью размера «queen-size»",
+    "price": 3000,
+    "img": "https://foundhotels.com/wp-content/uploads/2024/04/22-SFO-SUTT1075-Queen-scaled.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Стандарт Плюс",
+    "vendor_code": "444e",
+    "description": "Номер с повышенным комфортом",
+    "price": 3500,
+    "img": "https://www.soleanstour.ru/upload/iblock/eb9/7.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "Люкс",
+    "vendor_code": "4445e",
+    "description": "Номер с двумя спальнями",
+    "price": 7000,
+    "img": "https://avatars.mds.yandex.net/i?id=9e2fb589f42d4312b64d9f82e499f246_l-5247923-images-thumbs&ref=rim&n=13&w=1545&h=1033"
+  },
+  {
+    "id": "6",
+    "title": "Семейный номер",
+    "vendor_code": "4446e",
+    "description": "Номер с детской спальней",
+    "price": 4000,
+    "img": "https://uploads2.stells.info/storage/jpg/9/16/916bd4bbea6bbd8dd99aafcd63fe9086.jpg"
+  },
+  {
+    "id": "7",
+    "title": "1+1",
+    "vendor_code": "4447e",
+    "description": "Номер для влюбленных",
+    "price": 8000,
+    "img": "https://hotels.sletat.ru/i/f/817_19.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Президентский Люкс",
+    "vendor_code": "4448e",
+    "description": "Номер с повышенным комфортом",
+    "price": 9000,
+    "img": "https://avatars.mds.yandex.net/get-altay/374295/2a0000015b1f8f5266d6d04f2e7372107247/XXL_height"
+  },
+  {
+    "id": "9",
+    "title": "Императорский Люкс",
+    "vendor_code": "444e",
+    "description": "Номер с повышенным комфортом",
+    "price": 10000,
+    "img": "https://www.pogostite.ru/images/1280/960/0/admin/images/108/izmajlovo_alfa_m_partizanskaja_nomer_105.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "Полулюкс 1",
+    "vendor_code": "44410e",
+    "description": "Одноместный номер с повышенным комфортом",
+    "price": 5000,
+    "img": "https://www.president-hotel.ru/upload/iblock/acc/acc82e5430969a843c5cd2f52d480067.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Полулюкс 2",
+    "vendor_code": "44411e",
+    "description": "Двухместный номер с повышенным комфортом",
+    "price": 6000,
+    "img": "https://s01.cdn-pegast.net/get/71/68/5a/57f533541e95942628e14c0eb9b05847d4367e8424f80d4daddb500eea/61976b606e723.jpg"
+  }
+]
