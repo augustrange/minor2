@@ -10,8 +10,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open index (2).html",
-            "file": "c:\\Users\\Darina\\Desktop\\вшэ\\minor2\\index (2).html"
+            "name": "Open index.html",
+            "file": "c:\\Users\\Darina\\Desktop\\вшэ\\minor2\\index.html"
 
         }
     ]
